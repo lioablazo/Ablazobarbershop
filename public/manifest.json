@@ -1,0 +1,17 @@
+{
+  "name": "Ablazo Cut Barbershop",
+  "short_name": "Ablazo",
+  "description": "Premium barbershop with expert grooming services",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#C89B3C",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+  ]
+}
